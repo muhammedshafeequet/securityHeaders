@@ -32,8 +32,8 @@ git clone https://github.com/muhammedshafeequet/securityHeaders.git
 	cd securityHeaders
 	npm install
 
-then
+#then
 	node server1.js     //to run webserver
 
-open on >> browser 
+#open on >> browser 
 	http://localhost:3000
